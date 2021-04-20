@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\Counter.razor" />
+    <Content Remove="Pages\FetchData.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Counter.razor" />
+    <None Include="Pages\FetchData.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="3.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Build" Version="3.2.1" PrivateAssets="all" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="3.2.1" PrivateAssets="all" />
@@ -15,6 +25,21 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\Images\April 2021_04_20 10_40 am Office Lens.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Images\bookings2021_04_20 10_41 am Office Lens.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Images\May 2021_04_20 10_40 am Office Lens %281%29.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Images\overview 2021_04_20 10_42 am Office Lens.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
