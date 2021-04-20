@@ -37,7 +37,7 @@
     <Content Update="wwwroot\images\May 2021_04_20 10_40 am Office Lens (1).jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\images\overview 2021_04_20 10_42 am Office Lens.jpg">
+    <Content Update="wwwroot\overview 2021_04_20 10_42 am Office Lens.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
