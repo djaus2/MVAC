@@ -28,17 +28,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="wwwroot\Images\April 2021_04_20 10_40 am Office Lens.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <Content Update="wwwroot\images\April 2021_04_20 10_40 am Office Lens.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\Images\bookings2021_04_20 10_41 am Office Lens.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <Content Update="wwwroot\images\bookings2021_04_20 10_41 am Office Lens.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\Images\May 2021_04_20 10_40 am Office Lens %281%29.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <Content Update="wwwroot\images\May 2021_04_20 10_40 am Office Lens (1).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\Images\overview 2021_04_20 10_42 am Office Lens.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <Content Update="wwwroot\images\overview 2021_04_20 10_42 am Office Lens.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 
