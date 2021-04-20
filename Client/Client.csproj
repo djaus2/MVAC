@@ -28,16 +28,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="wwwroot\images\April 2021_04_20 10_40 am Office Lens.jpg">
+    <Content Update="wwwroot\Images\April2021.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\images\bookings2021_04_20 10_41 am Office Lens.jpg">
+    <Content Update="wwwroot\Images\Bookings.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\images\May 2021_04_20 10_40 am Office Lens (1).jpg">
+    <Content Update="wwwroot\Images\May2021.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\overview 2021_04_20 10_42 am Office Lens.jpg">
+    <Content Update="wwwroot\Overview.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
