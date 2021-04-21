@@ -1,6 +1,6 @@
 # A Simple Azure Static Web App - With static content as images
 
-This uses the template at  [GitHub template](https://docs.github.com/en/enterprise/2.22/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) and then clone it locally to your machine.
+This uses the template at  [GitHub template](https://docs.github.com/en/enterprise/2.22/user/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
 <br/>
 The app has been deployed to Azure [here](https://orange-rock-0d133001e.azurestaticapps.net)
 <br/>
